@@ -1,6 +1,6 @@
-# Vue 3 + Typescript + Vite
+# Vue Sanctum Authentication Demo
 
-This template should help get you started developing with Vue 3 and Typescript in Vite.
+This application was developed Vue 3 and Typescript in Vite. Vite is alternative build tool like Vue client (with is slower).
 
 ## Recommended IDE Setup
 
