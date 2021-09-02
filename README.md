@@ -2,7 +2,7 @@
 
 This application was developed Vue 3 and Typescript in Vite. Vite is alternative build tool like Vue client (with is slower).
 
-## Whatis Laravel Sanctum
+## What is Laravel Sanctum
 This is reference on Laravel Sanctum documentation.
 
 ```Laravel Sanctum provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs. Sanctum allows each user of your application to generate multiple API tokens for their account. These tokens may be granted abilities / scopes which specify which actions the tokens are allowed to perform.```
